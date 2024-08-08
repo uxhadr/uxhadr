@@ -36,16 +36,12 @@ I am eager to transition into the cybersecurity field, specifically aiming to jo
 
 ## Certifications
 <div>
+ <img src="https://img.shields.io/badge/-CySA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
 - [Splunk Lab Implementation](#)
 - SOC Automation Project
-
----
-
-You can replace the `(#)` in the project links with the actual links to your projects on GitHub once they're uploaded. Let me know if you need any more adjustments!
