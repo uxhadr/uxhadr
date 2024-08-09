@@ -43,5 +43,5 @@ I am eager to transition into the cybersecurity field, specifically aiming to jo
 </div>
 
 ## Projects
-- [Splunk Lab ]((https://github.com/uxhadr/Splunk-Lab-THM-/blob/main/README.md))
-- SOC Automation Project
+- [Splunk Lab ](https://github.com/uxhadr/Splunk-Lab-THM-/blob/main/README.md)
+
