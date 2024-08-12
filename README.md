@@ -11,7 +11,7 @@ I am eager to transition into the cybersecurity field, specifically aiming to jo
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [Splunk Lab ](https://github.com/uxhadr/Splunk-Lab-THM-/blob/main/README.md)|
-| SIEM Implementation and Log Analysis          | [Elkstack Lab]             |
+| SIEM Implementation and Log Analysis          | [Elk Stack Lab](https://github.com/uxhadr/ELK-Stack)            |
 | Network Traffic Monitoring and Attack Detection | WireShark(In Progress)|
 |                          | Active Directory Lab(In Progress)||
 
@@ -43,4 +43,7 @@ I am eager to transition into the cybersecurity field, specifically aiming to jo
 
 ## Projects
 - [Splunk Lab ](https://github.com/uxhadr/Splunk-Lab-THM-/blob/main/README.md)
+ - [ELK Stack Lab](https://github.com/uxhadr/ELK-Stack)
+
+  
 
