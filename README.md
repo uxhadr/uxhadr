@@ -11,7 +11,7 @@ I am eager to transition into the cybersecurity field, specifically aiming to jo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure SIEM Deployment                         | [Azure SIEM]
+| Azure SIEM Deployment                         | [Azure SIEM](https://github.com/uxhadr/SIEM)
 | SIEM Implementation and Log Analysis          | [Splunk Lab ](https://github.com/uxhadr/Splunk-Lab-THM-/blob/main/README.md)|
 | SIEM Implementation and Log Analysis          | [Elk Stack Lab](https://github.com/uxhadr/ELK-Stack)            |
 | Network Traffic Monitoring and Attack Detection | WireShark(In Progress)|
