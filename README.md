@@ -45,6 +45,8 @@ I am eager to transition into the cybersecurity field, specifically aiming to jo
 </div>
 
 ## Projects
+- [Azure SIEM](https://github.com/uxhadr/SIEM)
+- [Nessus Lab ](https://github.com/uxhadr/Vulnerability-Scanning)
 - [Splunk Lab ](https://github.com/uxhadr/Splunk-Lab-THM-/blob/main/README.md)
  - [ELK Stack Lab](https://github.com/uxhadr/ELK-Stack)
 
