@@ -11,12 +11,13 @@ I am eager to transition into the cybersecurity field, specifically aiming to jo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure SIEM Deployment                         | [Azure SIEM](https://github.com/uxhadr/SIEM)
-| Vulnerability Assessment and Remediation      | [Nessus Lab ](https://github.com/uxhadr/Vulnerability-Scanning)|
-| SIEM Implementation and Log Analysis          | [Splunk Lab ](https://github.com/uxhadr/Splunk-Lab-THM-/blob/main/README.md)|
-| SIEM Implementation and Log Analysis          | [Elk Stack Lab](https://github.com/uxhadr/ELK-Stack)            |
-| Network Traffic Monitoring and Attack Detection | WireShark(In Progress)|
-|                          | Active Directory Lab(In Progress)||
+| SOC Environment Setup & Threat Monitoring     | [30-Day SOC Challenge](https://github.com/uxhadr/30-Days-SOC-challenge)  |
+| Azure SIEM Deployment                         | [Azure SIEM](https://github.com/uxhadr/SIEM)                    |
+| Vulnerability Assessment and Remediation      | [Nessus Lab](https://github.com/uxhadr/Vulnerability-Scanning)  |
+| SIEM Implementation and Log Analysis          | [Splunk Lab](https://github.com/uxhadr/Splunk-Lab-THM-/blob/main/README.md)|
+| SIEM Implementation and Log Analysis          | [ELK Stack Lab](https://github.com/uxhadr/ELK-Stack)            |
+
+For the **30-Day SOC Challenge**, once you have a GitHub repository or a relevant resource link, you can update the placeholder `[#]` with the actual link.
 
 ## Tools
 
@@ -27,7 +28,7 @@ I am eager to transition into the cybersecurity field, specifically aiming to jo
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-008000?&style=for-the-badge&logo=windows&logoColor=white" /> </div>
 </div>
 
 ### SIEM
@@ -45,6 +46,7 @@ I am eager to transition into the cybersecurity field, specifically aiming to jo
 </div>
 
 ## Projects
+- [30-Day SOC Challenge](https://github.com/uxhadr/30-Days-SOC-challenge) 
 - [Azure SIEM](https://github.com/uxhadr/SIEM)
 - [Nessus Lab ](https://github.com/uxhadr/Vulnerability-Scanning)
 - [Splunk Lab ](https://github.com/uxhadr/Splunk-Lab-THM-/blob/main/README.md)
