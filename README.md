@@ -17,8 +17,6 @@ I am eager to transition into the cybersecurity field, specifically aiming to jo
 | SIEM Implementation and Log Analysis          | [Splunk Lab](https://github.com/uxhadr/Splunk-Lab-THM-/blob/main/README.md)|
 | SIEM Implementation and Log Analysis          | [ELK Stack Lab](https://github.com/uxhadr/ELK-Stack)            |
 
-For the **30-Day SOC Challenge**, once you have a GitHub repository or a relevant resource link, you can update the placeholder `[#]` with the actual link.
-
 ## Certifications
 <div>
  <img src="https://img.shields.io/badge/-CySA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
