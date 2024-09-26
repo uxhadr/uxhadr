@@ -4,7 +4,7 @@
 I hold a Bachelor of Science in Cybersecurity and possess a strong passion for technology. My academic journey has equipped me with the skills to confront and resolve complex security challenges effectively. I am committed to continuous learning and growth in the field.
 
 ## Objective
-I am eager to apply my academic background in cybersecurity and project experience to contribute to a dynamic team focused on advancing information technology security.
+I am eager to apply my academic background in cybersecurity and project experience to contribute to a dynamic team focused on advancing Information Technology security.
 
 ## Skills
 
