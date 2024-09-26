@@ -1,11 +1,10 @@
 # Hello, I'm Adrian Onyango  
 <a href="https://www.linkedin.com/in/adrian-onyango-37b433251/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I hold a Bachelor of Science in Cybersecurity and am deeply passionate about technology. My academic journey has prepared me to effectively confront and resolve advanced security challenges.
-
+I hold a Bachelor of Science in Cybersecurity and possess a strong passion for technology. My academic journey has equipped me with the skills to confront and resolve complex security challenges effectively. I am committed to continuous learning and growth in the field.
 
 ## Objective
-I am eager to transition into the cybersecurity field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am eager to apply my academic background in cybersecurity and project experience to contribute to a dynamic team focused on advancing information technology security.
 
 ## Skills
 
