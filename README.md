@@ -12,9 +12,11 @@ I am eager to apply my academic background in cybersecurity and project experien
 |-----------------------------------------------|----------------------------|
 | SOC Environment Setup & Threat Monitoring     | [30-Day SOC Challenge](https://github.com/uxhadr/30-Days-SOC-challenge)  |
 | Azure SIEM Deployment                         | [Azure SIEM](https://github.com/uxhadr/SIEM)                    |
+| Networking Project                            | [Cisco Packet Tracer University Network Project](https://github.com/uxhadr/University-Network-Project) |
 | Vulnerability Assessment and Remediation      | [Nessus Lab](https://github.com/uxhadr/Vulnerability-Scanning)  |
 | SIEM Implementation and Log Analysis          | [Splunk Lab](https://github.com/uxhadr/Splunk-Lab-THM-/blob/main/README.md)|
 | SIEM Implementation and Log Analysis          | [ELK Stack Lab](https://github.com/uxhadr/ELK-Stack)            |
+
 
 ## Certifications
 <div>
@@ -52,6 +54,7 @@ I am eager to apply my academic background in cybersecurity and project experien
 - [Nessus Lab ](https://github.com/uxhadr/Vulnerability-Scanning)
 - [Splunk Lab ](https://github.com/uxhadr/Splunk-Lab-THM-/blob/main/README.md)
  - [ELK Stack Lab](https://github.com/uxhadr/ELK-Stack)
+ - [Cisco Packet Tracer University Network Project](https://github.com/uxhadr/University-Network-Project)
 
   
 
